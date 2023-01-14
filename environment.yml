@@ -1,0 +1,11 @@
+name: ibb5
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - opencv
+  - nb_conda
+  - scikit-image
+  - scikit-learn
+prefix: /Users/blazpridgar/opt/anaconda3/envs/ibb5
